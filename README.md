@@ -5,6 +5,9 @@ From Raw Data to Robust Models: Taming Variance and Zero-Inflation.
 
 An end-to-end Python portfolio mastering data hygiene, Bayesian shrinkage, and two-stage hurdle modeling to conquer small-sample variance, class imbalance, and zero-inflation.
 
+### 📂 Project Code
+* **[View Full Python Pipeline Script (416 lines)](https://github.com/DavidCoulson2021/DavidCoulson2021.github.io/blob/main/your-filename.py)** — Explores data hygiene, Bayesian empirical smoothing, regularized Ridge regression, and the two-stage hurdle model.
+* 
 ---
 
 ## Portfolio Overview
